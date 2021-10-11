@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HQw8qAxoNjC53UKv2g07W53z7A7Neun0aRVidFphnreMuP9hCP12F/Z4XiiAIqdheyya3DjsfpDlBBsxgT/QPg==",
+  "dgSpecHash": "QrxOVrxN+FoMKmWQ5kEOG9R6XZ2aF5SO1+bOP8s9mdRXYtpBrTny8MhJpa5E9VTg3CSXCNAlKiwav41D3TAM9Q==",
   "success": true,
-  "projectFilePath": "/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKata/TicTacToeUnitTest/TicTacToeUnitTest.csproj",
+  "projectFilePath": "/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKataFile/TicTacToeKata/TicTacToeKata copy/TicTacToeUnitTest/TicTacToeUnitTest.csproj",
   "expectedPackageFiles": [
     "/Users/Timothy.Dalzotto/.nuget/packages/castle.core/4.4.0/castle.core.4.4.0.nupkg.sha512",
     "/Users/Timothy.Dalzotto/.nuget/packages/coverlet.collector/3.0.2/coverlet.collector.3.0.2.nupkg.sha512",

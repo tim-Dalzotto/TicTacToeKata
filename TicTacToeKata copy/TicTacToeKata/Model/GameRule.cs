@@ -16,8 +16,13 @@ namespace TicTacToeKata
                 
             var xYCoord = coord.Split(',').ToArray();
             gameBoard[int.Parse(xYCoord[0]) - 1, int.Parse(xYCoord[1]) - 1] = playerSymbol;
-            currentPlayer.CurrentCoords.Add(coord);
+            //currentPlayer.CurrentCoords.Add(coord);
             return gameBoard;
+        }
+
+        public void UpdatePlayerMoveList(Player currentPlayer, string coord)
+        {
+            currentPlayer.CurrentCoords.Add(coord);
         }
 
         public bool CheckForWinner(WinConditions winConditions, Player player)

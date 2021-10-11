@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKata/TicTacToeUnitTest/TicTacToeUnitTest.csproj": {}
+    "/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKataFile/TicTacToeKata/TicTacToeKata copy/TicTacToeUnitTest/TicTacToeUnitTest.csproj": {}
   },
   "projects": {
-    "/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKata/TicTacToeKata/TicTacToeKata.csproj": {
+    "/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKataFile/TicTacToeKata/TicTacToeKata copy/TicTacToeKata/TicTacToeKata.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKata/TicTacToeKata/TicTacToeKata.csproj",
+        "projectUniqueName": "/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKataFile/TicTacToeKata/TicTacToeKata copy/TicTacToeKata/TicTacToeKata.csproj",
         "projectName": "TicTacToeKata",
-        "projectPath": "/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKata/TicTacToeKata/TicTacToeKata.csproj",
+        "projectPath": "/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKataFile/TicTacToeKata/TicTacToeKata copy/TicTacToeKata/TicTacToeKata.csproj",
         "packagesPath": "/Users/Timothy.Dalzotto/.nuget/packages/",
-        "outputPath": "/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKata/TicTacToeKata/obj/",
+        "outputPath": "/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKataFile/TicTacToeKata/TicTacToeKata copy/TicTacToeKata/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Timothy.Dalzotto/.nuget/NuGet/NuGet.Config"
@@ -56,14 +56,14 @@
         }
       }
     },
-    "/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKata/TicTacToeUnitTest/TicTacToeUnitTest.csproj": {
+    "/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKataFile/TicTacToeKata/TicTacToeKata copy/TicTacToeUnitTest/TicTacToeUnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKata/TicTacToeUnitTest/TicTacToeUnitTest.csproj",
+        "projectUniqueName": "/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKataFile/TicTacToeKata/TicTacToeKata copy/TicTacToeUnitTest/TicTacToeUnitTest.csproj",
         "projectName": "TicTacToeUnitTest",
-        "projectPath": "/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKata/TicTacToeUnitTest/TicTacToeUnitTest.csproj",
+        "projectPath": "/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKataFile/TicTacToeKata/TicTacToeKata copy/TicTacToeUnitTest/TicTacToeUnitTest.csproj",
         "packagesPath": "/Users/Timothy.Dalzotto/.nuget/packages/",
-        "outputPath": "/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKata/TicTacToeUnitTest/obj/",
+        "outputPath": "/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKataFile/TicTacToeKata/TicTacToeKata copy/TicTacToeUnitTest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Timothy.Dalzotto/.nuget/NuGet/NuGet.Config"
@@ -78,8 +78,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKata/TicTacToeKata/TicTacToeKata.csproj": {
-                "projectPath": "/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKata/TicTacToeKata/TicTacToeKata.csproj"
+              "/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKataFile/TicTacToeKata/TicTacToeKata copy/TicTacToeKata/TicTacToeKata.csproj": {
+                "projectPath": "/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKataFile/TicTacToeKata/TicTacToeKata copy/TicTacToeKata/TicTacToeKata.csproj"
               }
             }
           }

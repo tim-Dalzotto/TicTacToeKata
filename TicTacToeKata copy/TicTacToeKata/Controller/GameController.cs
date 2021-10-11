@@ -41,6 +41,7 @@ namespace TicTacToeKata.Controller
                     _output.DisplayInvalidInput();
                 }
                 gameBoard = _gameRules.PlayerMove(gameBoard, moveSelectionUserInput, currentPlayer, playerOnesTurn);
+                _gameRules.UpdatePlayerMoveList(currentPlayer, moveSelectionUserInput);
 
                 if (_gameRules.CheckForWinner(_winConditions, currentPlayer) == true)
                 {

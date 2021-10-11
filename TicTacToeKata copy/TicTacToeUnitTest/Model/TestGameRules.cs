@@ -7,9 +7,9 @@ namespace TicTacToeUnitTest.Model
         public string[,] PlayerMove(string[,] gameBoard, string coord, Player currentPlayer, bool playerOnesTurn)
         {
             gameBoard[1,1] = "X";
-            currentPlayer.CurrentCoords.Add("1,1");
             return gameBoard;
         }
+        
 
         public bool CheckForWinner(WinConditions winConditions, Player currentPlayer)
         {
@@ -19,6 +19,11 @@ namespace TicTacToeUnitTest.Model
         public bool CheckIfValidMove(string userInput, Player playerOne, Player playerTwo)
         {
             return true;
+        }
+
+        public void UpdatePlayerMoveList(Player currentPlayer, string coord)
+        {
+            currentPlayer.CurrentCoords.Add("1,1");
         }
     }
 }
