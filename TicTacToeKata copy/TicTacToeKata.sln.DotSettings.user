@@ -1,4 +1,38 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cc442e23_002D9cd0_002D4de5_002Db56c_002D2fb86c2662dd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;TicTacToeUnitTest&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;Project Location="/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKata/TicTacToeUnitTest" Presentation="&amp;lt;TicTacToeUnitTest&amp;gt;" /&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3ede88dc_002D2688_002D4068_002D82a4_002Dc611e04581dc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PlayGame_When_PlayerOnelosesTest #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::FD34F8B1-816B-41BC-8AE9-DBA2C9CC097C::net5.0::TicTacToeUnitTest.GameControllerTests.PlayGame_When_PlayerOnelosesTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::FD34F8B1-816B-41BC-8AE9-DBA2C9CC097C::net5.0::TicTacToeUnitTest.ModelTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=41d9d7c3_002D77b3_002D4204_002D9ac6_002D441f84879ea2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PlayGame_When_PlayerOnelosesTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::FD34F8B1-816B-41BC-8AE9-DBA2C9CC097C::net5.0::TicTacToeUnitTest.GameControllerTests.PlayGame_When_PlayerOnelosesTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5a068b2c_002Dfd09_002D4e2a_002Dba9c_002D7bec8f70f3db/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PlayGame_When_PlayerOnelosesTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::FD34F8B1-816B-41BC-8AE9-DBA2C9CC097C::net5.0::TicTacToeUnitTest.GameControllerTests.PlayGame_When_PlayerOnelosesTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6a9ad459_002D30c2_002D453a_002Dbe56_002Db32dbb075648/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="PlayGame_When_PlayerOnelosesTest #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::FD34F8B1-816B-41BC-8AE9-DBA2C9CC097C::net5.0::TicTacToeUnitTest.GameControllerTests.PlayGame_When_PlayerOnelosesTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b08ab014_002Dc787_002D49a8_002D8841_002D8d741945dd00/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PlayGame_When_PlayerOneWinsTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::FD34F8B1-816B-41BC-8AE9-DBA2C9CC097C::net5.0::TicTacToeUnitTest.GameControllerTests.PlayGame_When_PlayerOneWinsTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::FD34F8B1-816B-41BC-8AE9-DBA2C9CC097C::net5.0::TicTacToeUnitTest.GameControllerTests.PlayGame_When_PlayerOnelosesTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cc442e23_002D9cd0_002D4de5_002Db56c_002D2fb86c2662dd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;TicTacToeUnitTest&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::FD34F8B1-816B-41BC-8AE9-DBA2C9CC097C::net5.0::TicTacToeUnitTest.GameControllerTests.PlayGame_When_PlayerOnelosesTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ead12025_002Dc2e2_002D4761_002D90b5_002D574528f2ea37/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PlayGame_When_PlayerOnelosesTest #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::FD34F8B1-816B-41BC-8AE9-DBA2C9CC097C::net5.0::TicTacToeUnitTest.GameControllerTests.PlayGame_When_PlayerOnelosesTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

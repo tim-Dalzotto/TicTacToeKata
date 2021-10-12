@@ -13,3 +13,18 @@
 /Users/Timothy.Dalzotto/RiderProjects/TicTacToeKata/TicTacToeKata/obj/Debug/net5.0/ref/TicTacToeKata.dll
 /Users/Timothy.Dalzotto/RiderProjects/TicTacToeKata/TicTacToeKata/obj/Debug/net5.0/TicTacToeKata.pdb
 /Users/Timothy.Dalzotto/RiderProjects/TicTacToeKata/TicTacToeKata/obj/Debug/net5.0/TicTacToeKata.genruntimeconfig.cache
+/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKataFile/TicTacToeKata/TicTacToeKata copy/TicTacToeKata/bin/Debug/net5.0/TicTacToeKata.deps.json
+/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKataFile/TicTacToeKata/TicTacToeKata copy/TicTacToeKata/bin/Debug/net5.0/TicTacToeKata.runtimeconfig.json
+/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKataFile/TicTacToeKata/TicTacToeKata copy/TicTacToeKata/bin/Debug/net5.0/TicTacToeKata.runtimeconfig.dev.json
+/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKataFile/TicTacToeKata/TicTacToeKata copy/TicTacToeKata/bin/Debug/net5.0/TicTacToeKata.dll
+/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKataFile/TicTacToeKata/TicTacToeKata copy/TicTacToeKata/bin/Debug/net5.0/ref/TicTacToeKata.dll
+/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKataFile/TicTacToeKata/TicTacToeKata copy/TicTacToeKata/bin/Debug/net5.0/TicTacToeKata.pdb
+/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKataFile/TicTacToeKata/TicTacToeKata copy/TicTacToeKata/obj/Debug/net5.0/TicTacToeKata.csproj.AssemblyReference.cache
+/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKataFile/TicTacToeKata/TicTacToeKata copy/TicTacToeKata/obj/Debug/net5.0/TicTacToeKata.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKataFile/TicTacToeKata/TicTacToeKata copy/TicTacToeKata/obj/Debug/net5.0/TicTacToeKata.AssemblyInfoInputs.cache
+/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKataFile/TicTacToeKata/TicTacToeKata copy/TicTacToeKata/obj/Debug/net5.0/TicTacToeKata.AssemblyInfo.cs
+/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKataFile/TicTacToeKata/TicTacToeKata copy/TicTacToeKata/obj/Debug/net5.0/TicTacToeKata.csproj.CoreCompileInputs.cache
+/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKataFile/TicTacToeKata/TicTacToeKata copy/TicTacToeKata/obj/Debug/net5.0/TicTacToeKata.dll
+/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKataFile/TicTacToeKata/TicTacToeKata copy/TicTacToeKata/obj/Debug/net5.0/ref/TicTacToeKata.dll
+/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKataFile/TicTacToeKata/TicTacToeKata copy/TicTacToeKata/obj/Debug/net5.0/TicTacToeKata.pdb
+/Users/Timothy.Dalzotto/RiderProjects/TicTacToeKataFile/TicTacToeKata/TicTacToeKata copy/TicTacToeKata/obj/Debug/net5.0/TicTacToeKata.genruntimeconfig.cache

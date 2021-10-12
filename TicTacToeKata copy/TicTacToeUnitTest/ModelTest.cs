@@ -76,14 +76,13 @@ namespace TicTacToeUnitTest
         [Fact]
         public void IfPlayerEntersValidMove_MoveIsAddedToPlayersMoveList()
         {
-            var gameBoard = new GameBoard();
-            var currentBoard = gameBoard.NewGameBoard();
             var player = new Player();
             player.CurrentCoords = new List<string>();
             var gameRule = new GameRule();
             var coord = "1,2";
             
-            gameRule.PlayerMove(currentBoard, coord, player, true);
+            //gameRule.PlayerMove(currentBoard, coord, player, true);
+            gameRule.UpdatePlayerMoveList(player, coord);
             //player.CurrentCoords.Add(coord);
             var actual = player.CurrentCoords[0];
 
