@@ -4,9 +4,9 @@ namespace TicTacToeUnitTest.Model
 {
     public class MockGameRules : IGameRules
     {
-        public string[,] PlayerMove(string[,] gameBoard, string coord, Player currentPlayer, bool playerOnesTurn)
+        public GameBoard PlayerMove(GameBoard gameBoard, string coord, Player currentPlayer, bool playerOnesTurn)
         {
-            gameBoard[1,1] = "X";
+            gameBoard.board[1,1] = "X";
             return gameBoard;
         }
         

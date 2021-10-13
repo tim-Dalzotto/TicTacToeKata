@@ -2,7 +2,7 @@ namespace TicTacToeKata.View
 {
     public interface IOutput
     {
-        void DisplayGameBoard(string[,] gameBoard);
+        void DisplayGameBoard(GameBoard gameBoard);
 
         void DisplayWinner(Player currentPlayer);
 

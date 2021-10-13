@@ -20,14 +20,13 @@ namespace TicTacToeKata.Controller
             _output = output;
             _winConditions = winConditions;
         }
-        public bool PlayGame(Player playerOne, Player playerTwo)
+        public Player PlayGame(Player playerOne, Player playerTwo, GameBoard gameBoard)
         {
-            var gameBoard = _gameBoard.NewGameBoard();
+            
             var currentPlayer = playerOne;
             var playerOnesTurn = true;
             var continueGame = true;
-            playerOne.CurrentCoords = new List<string>();
-            playerTwo.CurrentCoords = new List<string>();
+            
             while (continueGame == true)
             {
                 _output.DisplayGameBoard(gameBoard);
@@ -40,6 +39,7 @@ namespace TicTacToeKata.Controller
                         break;
                     _output.DisplayInvalidInput();
                 }
+                
                 gameBoard = _gameRules.PlayerMove(gameBoard, moveSelectionUserInput, currentPlayer, playerOnesTurn);
                 _gameRules.UpdatePlayerMoveList(currentPlayer, moveSelectionUserInput);
 
@@ -61,7 +61,7 @@ namespace TicTacToeKata.Controller
                     playerOnesTurn = true;
                 }
             }
-            return true;
+            return currentPlayer;
         }
     }
 }

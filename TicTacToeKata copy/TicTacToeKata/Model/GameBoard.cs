@@ -2,10 +2,15 @@ namespace TicTacToeKata
 {
     public class GameBoard
     {
-        public string[,] NewGameBoard()
+        public string[,] board { get; set; }
+        public void NewGameBoard()
         {
-            string[,] gameBoard =  new string[3,3] {{".",".","."},{".",".","."},{".",".","."}};
-            return gameBoard;
+            board = new string[3,3] {{".",".","."},{".",".","."},{".",".","."}};
+        }
+
+        public string[,] getGameBoard()
+        {
+            return board;
         }
     }
 }

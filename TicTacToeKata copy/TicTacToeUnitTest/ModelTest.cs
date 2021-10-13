@@ -11,8 +11,8 @@ namespace TicTacToeUnitTest
         public void IfGameBoardIsCalled_ThenGameBoardIsNotNull()
         {
             var gameBoard = new GameBoard();
-
-            var actual = gameBoard.NewGameBoard();
+            gameBoard.NewGameBoard();
+            var actual = gameBoard.board;
 
             Assert.NotEmpty(actual);
         }
@@ -23,7 +23,8 @@ namespace TicTacToeUnitTest
             var gameBoard = new GameBoard();
             var player = new Player();
             player.CurrentCoords = new List<string>();
-            var currentBoard = gameBoard.NewGameBoard();
+            gameBoard.NewGameBoard();
+            var currentBoard = gameBoard;
             var playerOnesTurn = true;
             var gameRule = new GameRule();
             var coord = "1,1";
@@ -31,7 +32,8 @@ namespace TicTacToeUnitTest
             gameRule.PlayerMove(currentBoard, coord, player, playerOnesTurn);
             var actual = currentBoard;
 
-            var result = new string[,] {{"X", ".", "."},{".", ".", "."},{".", ".", "."}};
+            var result = new GameBoard();
+            result.board = new [,] {{"X", ".", "."},{".", ".", "."},{".", ".", "."}};
             Assert.Equal(result, actual);
 
         }
@@ -41,7 +43,8 @@ namespace TicTacToeUnitTest
             var gameBoard = new GameBoard();
             var playerTwo = new Player();
             playerTwo.CurrentCoords = new List<string>();
-            var currentBoard = gameBoard.NewGameBoard();
+            gameBoard.NewGameBoard();
+            var currentBoard = gameBoard;
             var gameRule = new GameRule();
             var playerOnesTurn = false;
             var coord = "1,1";
@@ -49,7 +52,8 @@ namespace TicTacToeUnitTest
             gameRule.PlayerMove(currentBoard, coord, playerTwo, playerOnesTurn);
             var actual = currentBoard;
 
-            var result = new string[,] {{"O", ".", "."},{".", ".", "."},{".", ".", "."}};
+            var result = new GameBoard();
+            result.board = new[,] {{"O", ".", "."}, {".", ".", "."}, {".", ".", "."}};
             Assert.Equal(result, actual);
 
         }
@@ -101,7 +105,8 @@ namespace TicTacToeUnitTest
         public void IfPlayersCurrentCoordListContainsWinningCombination_ThenThatPlayerIsTheWinner(string coord1, string coord2, string coord3,string coord4, bool result)
         {
             var gameBoard = new GameBoard();
-            var currentBoard = gameBoard.NewGameBoard();
+            gameBoard.NewGameBoard();
+            var currentBoard = gameBoard.getGameBoard();
             var player = new Player();
             player.CurrentCoords = new List<string>(){coord1,coord2,coord3,coord4};
             var gameRule = new GameRule();

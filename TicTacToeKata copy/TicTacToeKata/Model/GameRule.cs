@@ -8,14 +8,14 @@ namespace TicTacToeKata
 {
     public class GameRule : IGameRules
     {
-        public string[,] PlayerMove(string[,] gameBoard, string coord, Player currentPlayer, bool playerOneTurn)
+        public GameBoard PlayerMove(GameBoard gameBoard, string coord, Player currentPlayer, bool playerOneTurn)
         {
             var playerSymbol = "X";
             if (playerOneTurn == false)
                 playerSymbol = "O";
                 
             var xYCoord = coord.Split(',').ToArray();
-            gameBoard[int.Parse(xYCoord[0]) - 1, int.Parse(xYCoord[1]) - 1] = playerSymbol;
+            gameBoard.board[int.Parse(xYCoord[0]) - 1, int.Parse(xYCoord[1]) - 1] = playerSymbol;
             //currentPlayer.CurrentCoords.Add(coord);
             return gameBoard;
         }

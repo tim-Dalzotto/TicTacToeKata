@@ -17,7 +17,8 @@
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6a9ad459_002D30c2_002D453a_002Dbe56_002Db32dbb075648/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="PlayGame_When_PlayerOnelosesTest #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
-    &lt;TestId&gt;xUnit::FD34F8B1-816B-41BC-8AE9-DBA2C9CC097C::net5.0::TicTacToeUnitTest.GameControllerTests.PlayGame_When_PlayerOnelosesTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::FD34F8B1-816B-41BC-8AE9-DBA2C9CC097C::net5.0::TicTacToeUnitTest.GameControllerTests.PlayGame_When_PlayerOneWinsTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::FD34F8B1-816B-41BC-8AE9-DBA2C9CC097C::net5.0::TicTacToeUnitTest.GameControllerTests.PlayGame_When_PlayerTwoWinsTest&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b08ab014_002Dc787_002D49a8_002D8841_002D8d741945dd00/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PlayGame_When_PlayerOneWinsTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
